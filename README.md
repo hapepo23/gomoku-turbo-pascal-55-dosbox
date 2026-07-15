@@ -4,7 +4,7 @@
 
 Gomoku oder "Fünf in einer Reihe" ist ein altes asiatisches Brettspiel für zwei Personen. Die Spieler setzen abwechselnd einen Stein in irgendein freies Feld. Wer zuerst fünf Steine seiner Farbe in einer Reihe legt, egal ob senkrecht, waagerecht oder diagonal, der hat gewonnen.
 
-[Mehr in Deutsch...](https://de.wikipedia.org/wiki/F%C3%BCnf_in_eine_Reihe) / [More in English](https://en.wikipedia.org/wiki/Gomoku)...
+[Mehr in Deutsch ...](https://de.wikipedia.org/wiki/F%C3%BCnf_in_eine_Reihe) / [More in English ...](https://en.wikipedia.org/wiki/Gomoku)
 
 ----
 
