@@ -55,7 +55,7 @@ groß werden!
 
 Im Normalfall brauchen die Parameter nicht gesetzt werden.
 
-Das Programm ist selbsterklärend. Weitere Informationen finden Sie im üppig kommentierten Quellcode.
+Das Programm wurde von mir im Rahmen des Programmierpraktikums im Sommersemester 2002 an der Fernuniversität Hagen (Lehrgebiet Praktische Informatik VI) erstellt und als eine der besten vier Lösungen prämiert.
 
 ----
 
